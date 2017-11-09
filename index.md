@@ -61,4 +61,4 @@ layout: default
 
 <p>Hey user, I’m sorry to hear that you’re having trouble with the build but I’m sure we can work together to figure this out! Our most common reasons for an unsuccessful build are x, y, and z.</p> 
 
-<p>Here are some guides that specifically address those difficulties. If none of those seem to help, I’d be more than happy to delve deeper into what might be going on here but I’ll need a little bit more background information on what you’ve previously tried and what what’s happening.</p>
+<p>Here are some guides that specifically address those difficulties. If none of those seem to help, I’d be more than happy to delve deeper into what might be going on here but I’ll need a little bit more background information on what you’ve previously tried and with what’s happening.</p>
