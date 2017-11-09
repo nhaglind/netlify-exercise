@@ -1,0 +1,45 @@
+body {
+  background: #fff;
+  color: #313D53;
+  font-family: Roboto,sans-seriface;
+  font-size: 1.2em;
+}
+
+code {
+  background: #f5f2f0;
+  padding: 5px;
+}
+
+a {
+  color: #00c7b7;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d28976;
+}
+
+footer {
+  text-align: center;
+  display: block;
+  margin-bottom: 50px;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.container {
+  padding: 10px 20px;
+}
+
+@media (min-width: 800px) {
+  .container {
+    max-width: 800px;
+    padding: 20px 200px;
+    margin: 0 auto;
+  }
+}
+
+.question {
+  padding-top: 20px;
+  font-weight: 500;
+}
